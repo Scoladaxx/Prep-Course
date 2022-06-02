@@ -146,13 +146,6 @@ function buscoInterseccion(arreglo1, arreglo2){
       }
     }
   }
-  // for (i=0; i<arreglo2.length; i++){
-    // for (j=0; j<arreglo1.length; j++){
-      // if (arreglo2[i] === arreglo1[j]) {
-        // result.push(arreglo2[i]);
-      // }
-    // }
-  // }
   return result;
 }
 
